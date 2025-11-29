@@ -24,7 +24,7 @@ Metro 2033 Redux — это обновленная версия культово
 ## Установка
 Установка
 
-1. Скачайте игру через платформу ![Steam](https://store.steampowered.com/app/286690/Metro_2033_Redux/&ved=2ahUKEwjXkrue75aRAxVR4skDHeo1N5oQFnoECCAQAQ&usg=AOvVaw0c36iSVSzhWg3kgwtUUj-A) или GOG.
+1. Скачайте игру через платформу Steam или GOG.
 2. Установите игру, следуя инструкциям установщика.
 3. Запустите игру через ярлык на рабочем столе или через библиотеку платформы.
 
